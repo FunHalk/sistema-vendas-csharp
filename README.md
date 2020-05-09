@@ -3,8 +3,10 @@
 ---
 
 ## - Sistema de Vendas - Ponte de Venda ou PDV
+## - Linguagem utilizada C# 
+## - Banco de dados: Microsoft Sql Server
 
-<img align="center" src="images/logo.png" width="150px;" />
+<img align="right" src="images/logo.png" width="150px;" />
 
 ## Contribuições 📌
 
@@ -17,11 +19,15 @@ Para propor melhorias neste projeto, basta abrir uma **[issue](https://github.co
     - Cadastro de fornecedores
     - Cadastro de produtos
     - Registro de compras
-    - Registo de vendas
+    - Registro de vendas
     - Baixa de estoque
-    - Consulatas
+    - Consultas
+    - Painel administrativo
+    - Nível de acesso (administrador, colaborador, gerente)
     - Relatórios
-    - Backup de dados 
+    - Backup de dados
+    - Configurações de parâmetros
+    - Upload de imagens 
 
 # :computer: Site Portfólio José A. Thomé - Acesse: https://josethome.github.io/josethome-portfolio/
 
