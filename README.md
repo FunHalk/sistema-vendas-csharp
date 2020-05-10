@@ -2,11 +2,11 @@
 
 ---
 
-## - Sistema de Vendas - Ponte de Venda ou PDV
+## - Sistema de Vendas - Ponto de Venda ou PDV
 - Linguagem utilizada C# 
 - Banco de dados: Microsoft Sql Server
 
-<img text-align="center" src="images/logo.png" width="150px;" />
+<img align="center" src="images/logo.png" width="150px;" />
 
 ## Contribuições 📌
 
