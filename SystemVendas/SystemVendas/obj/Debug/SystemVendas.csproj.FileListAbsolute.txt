@@ -1,0 +1,1 @@
+C:\wamp64\www\sistema-vendas-csharp\SystemVendas\SystemVendas\bin\Debug\SystemVendas.exe.config
